@@ -5,7 +5,7 @@
 
 ## Overview
 
-Marriott Buddies is an innovative mobile application designed to enhance the experience of Marriott hotel guests by fostering social engagement. The app allows guests to connect with each other, find activity buddies, and create memorable experiences during their stay. The backend is built using Flask, while the frontend is developed in Flutter.
+Marriott Buddies, is designed to transform a typical hotel stay into an engaging social experience. It helps guests at Marriott hotels connect with other guests who have similar interests, making it easier for travelers to find activity partners, share experiences, and create lasting memories during their stay. The app offers different "buddy types," such as food buddies, recreational buddies, room-sharing buddies, and networking buddies, providing a personalized experience for every type of traveler. The goal is to combat the isolation often felt by solo travelers and enhance the overall guest experience, positioning Marriott as a leader in guest-centric hospitality
 
 ## Features
 
