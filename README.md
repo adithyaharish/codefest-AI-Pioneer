@@ -1,7 +1,7 @@
 
 <center><h1 style="font-size: 36px;">Marriott Buddies</h1></center>
 
-** Check out our app demo here: https://lnkd.in/eFA_nY8Q **
+**Check out our app demo here: https://lnkd.in/eFA_nY8Q**
 
 **<span style="font-size: 28px;">Overview</span>**
 
